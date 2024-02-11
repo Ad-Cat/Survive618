@@ -3,7 +3,7 @@ import time
 def o(text): #等效于 print , 只是增加了暂停, 类似于 ChatGPT
     for char in text:
         print(char, end='', flush=True)  # 使用 end='' 避免换行，flush=True 立即输出
-        time.sleep(0.05)  # 暂停 0.05 秒
+        time.sleep(0.00)  # 暂停 0.00 秒
     print()  # 打印换行符，以便下一行文本能够另起一行
 #另一版的open ai, 在d1的捡钱部分
 def o2(text):
@@ -13,6 +13,7 @@ def o2(text):
     print()  # 打印换行符，以便下一行文本能够另起一行
 
 o('\n')
+o('极速版, 如果想体验完整速度, 请下载完整版. 此版可供体验.')
 copyright_en = "All Rights Reserved. © 2024 Survive618 Ad-TEAM."
 copyright_cn = "版权所有 © 2024 求生618 Ad-TEAM。保留所有权利。此游戏基于开源协议，遵循开源精神。"
 #版权声明
