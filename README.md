@@ -1,4 +1,7 @@
-# Survive618
+# Survive618 - **[极速版]**
+> [!IMPORTANT]
+> 完整速度版本请去到`main`[分支](https://github.com/Ad-closeNN/Survive618/tree/main)
+
 **All Rights Reserved. © 2024 Survive618 Ad-TEAM.**
 
 **版权所有 © 2024 求生618 Ad-TEAM。保留所有权利。此游戏基于开源协议，遵循开源精神。**
