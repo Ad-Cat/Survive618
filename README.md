@@ -1,6 +1,8 @@
 # Survive618 - **[极速版]**
 > [!IMPORTANT]
 > 完整速度版本请去到`main`[分支](https://github.com/Ad-closeNN/Survive618/tree/main)
+>
+> 本版本把对话速度调整为`0.00s`(也就是print), 完整版有`0.05s`的等待(有点像ChatGPT)动画
 
 **All Rights Reserved. © 2024 Survive618 Ad-TEAM.**
 
