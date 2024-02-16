@@ -27,7 +27,7 @@ Survive618 是一个用[Python](https://python.org)做的纯命令行游戏。�
 ## 下载(源代码 .py)
 | 完整版 | 极速版 |
 | ------------ | ------------ |
-| [V0.5](https://ad-closenn.github.io/Survive618/Version/v1.0/main.py) | [V1.0](https://ad-closenn.github.io/Survive618/Version/v1.0/main%20-%20Speed.py)
+| [V1.0](https://ad-closenn.github.io/Survive618/Version/v1.0/main.py) | [V1.0](https://ad-closenn.github.io/Survive618/Version/v1.0/main%20-%20Speed.py)
 | [V0.5](https://ad-closenn.github.io/Survive618/Version/v0.5/main.py) | [V0.5](https://ad-closenn.github.io/Survive618/Version/v0.5/main%20-%20Speed.py)
 
 > [!IMPORTANT]
